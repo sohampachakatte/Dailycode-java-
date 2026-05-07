@@ -1,0 +1,13 @@
+arrays - 
+        list of elements of same type placed in contiguous memeory location
+
+integer,float - 4 bytes
+char = 2 byte - in java
+double , 
+
+opretation in arrays:
+create,input,output,update
+
+
+creating array:
+datatype arrayName[] = new dataType[size];
