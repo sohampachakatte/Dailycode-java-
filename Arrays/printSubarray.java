@@ -22,7 +22,7 @@ public class printSubarray {
             System.out.println();
         }
         System.out.println("max sum : " + Submax);
-        System.out.println("total sunArrays : " + ts);
+        System.out.println("total subArrays : " + ts);
     }
 
     public static void main(String[] args) {
